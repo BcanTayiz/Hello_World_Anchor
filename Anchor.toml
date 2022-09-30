@@ -1,7 +1,7 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
+[programs.devnet]
 # must change after build
 hello_world = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 
