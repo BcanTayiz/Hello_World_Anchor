@@ -1,6 +1,8 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token::TokenAccount;
 
+
+// must change after build
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
 #[program]

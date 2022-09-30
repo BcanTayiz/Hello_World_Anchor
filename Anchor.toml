@@ -2,10 +2,12 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
+# must change after build
 hello_world = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 
+
 [registry]
-url = "https://api.apr.dev"
+url = "https://api.devnet.solana.com"
 
 [provider]
 cluster = "localnet"
